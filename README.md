@@ -4,7 +4,9 @@ Installation Process
 2.	Import this project using Eclipse or other IDE that you prefer
 3.	You need to run this project on Tomcat version 8 or higher
 4.  You will need Java 7 or higher, and if there are some problems with compiling, you should change from jre to jdk for compiling this project
-5.	When the project is running you can use Postman or your browser to get the data and do with it what you need.
+5.	When the project is running you can use Postman or your browser to get the data and do with it what you need.<br/>
+<br/>
+<br/>
 How to get data:
 Depending what you need the first controller the HomeController will give you all info about the specific user (http://localhost:8080/TestProject/core/home/getUserById/{id})
 This is just for specific info for User depending if you want to get info, delete, add new user or update(http://localhost:8080/TestProject/core/user/getUser/, http://localhost:8080/TestProject/core/user/getUserById/{id}, http://localhost:8080/TestProject/core/user/add/, http://localhost:8080/TestProject/core/user/update/{id}, http://localhost:8080/TestProject/core/user/delete/{id})
