@@ -29,3 +29,7 @@ To get info about company or add new, delete or update use(http://localhost:8080
 <br/>
 <br/>
 To get info about country or add new, delete or update use(http://localhost:8080/TestProject/core/country/getCountry/,http://localhost:8080/TestProject/core/country/add/,http://localhost:8080/TestProject/core/country/update/{id},http://localhost:8080/TestProject/core/country/delete/{id})
+
+ERD
+![capture](https://cloud.githubusercontent.com/assets/25598930/26736933/5afdc8cc-47c8-11e7-8eb9-1956f44c120e.JPG)
+
