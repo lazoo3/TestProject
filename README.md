@@ -4,7 +4,8 @@ Installation Process
 2.	Import this project using Eclipse or other IDE that you prefer
 3.	You need to run this project on Tomcat version 8 or higher
 4.  You will need Java 7 or higher, and if there are some problems with compiling, you should change from jre to jdk for compiling this project
-5.	When the project is running you can use Postman or your browser to get the data and do with it what you need.<br/>
+5.  Before starting the server you should right click on the project then go to Run As->Maven Clean and Run As->Maven Install 
+6.	When the project is running you can use Postman or your browser to get the data and do with it what you need.<br/>
 <br/>
 <br/>
 How to get data:
